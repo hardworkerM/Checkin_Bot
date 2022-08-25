@@ -10,7 +10,8 @@
 ____
 
 ## Описание задачи
-Полное описание задачи вы можете посмотреть [здесь](https://github.com/hardworkerM/Checkin_Bot/blob/main/Checkin_bot_task.pdf) 
+Полное описание задачи вы можете посмотреть [здесь.](https://github.com/hardworkerM/Checkin_Bot/blob/main/Checkin_bot_task.pdf) 
+
 [:arrow_up:Оглавление](#оглавление)
 ____
 ## Архитектура проекта
@@ -26,6 +27,7 @@ ____
 [:arrow_up:Оглавление](#оглавление)
 ____
 ## Результаты
-Ролик с показом функционала бота [ютуб](https://youtu.be/U5yTr65kLro)
+Функционал бота [ютуб](https://youtu.be/U5yTr65kLro)
+
 [:arrow_up:Оглавление](#оглавление)
 ____
