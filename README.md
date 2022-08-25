@@ -1,6 +1,7 @@
 # Checkin_Bot
 Хакатон от Школа21 Сбера.
 **Задача** "Необходимо разработать Telegram-бота для чекина на школьных мероприятиях."
+Команда:
 
 ## Оглавление
 
@@ -11,6 +12,9 @@ ____
 
 ## Описание задачи
 Полное описание задачи вы можете посмотреть [здесь.](https://github.com/hardworkerM/Checkin_Bot/blob/main/Checkin_bot_task.pdf) 
+
+**Команда:**
+[urycherd](https://github.com/urycherd) [mikabuto](https://github.com/mikabuto)
 
 [:arrow_up:Оглавление](#оглавление)
 ____
