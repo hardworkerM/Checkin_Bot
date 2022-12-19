@@ -14,7 +14,7 @@ ____
 Полное описание задачи вы можете посмотреть [здесь.](https://github.com/hardworkerM/Checkin_Bot/blob/main/Checkin_bot_task.pdf) 
 
 **Команда:**
-[urycherd](https://github.com/urycherd) [mikabuto](https://github.com/mikabuto) и другие
+[urycherd](https://github.com/urycherd) [mikabuto](https://github.com/mikabuto) [ptoshiko](https://github.com/ptoshiko) и другие
 
 [:arrow_up:Оглавление](#оглавление)
 ____
